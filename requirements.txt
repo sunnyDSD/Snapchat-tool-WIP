@@ -1,0 +1,10 @@
+requests[socks]
+aiohttp
+colorama
+selenium
+beautifulsoup4
+pytesseract
+opencv-python
+proxyscrape
+stem
+speechrecognition
